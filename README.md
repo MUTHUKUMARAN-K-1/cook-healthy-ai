@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="public/logo.png" alt="Cook Healthy AI Logo" width="120" height="120" />
+
 ![Cook Healthy AI](https://img.shields.io/badge/Cook%20Healthy%20AI-Smart%20Meal%20Planning-22C55E?style=for-the-badge&logo=cookiecutter&logoColor=white)
 
 **AI-Powered Budget Meal Planning & Wellness Platform**
@@ -11,9 +13,10 @@
 [![Gemini AI](https://img.shields.io/badge/Gemini-2.0%20Flash-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-[🚀 Live Demo](#) • [📖 Documentation](#features) • [🛠️ Installation](#installation)
+[📖 Features](#-features) • [🏗️ Architecture](#️-architecture) • [🚀 Installation](#-installation) • [🤝 Contributing](#-contributing)
 
 </div>
+
 
 ---
 

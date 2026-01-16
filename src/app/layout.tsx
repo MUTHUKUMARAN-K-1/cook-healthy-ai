@@ -13,9 +13,13 @@ export const metadata: Metadata = {
   title: 'Cook Healthy AI - Smart Meal Planning',
   description: 'AI-powered healthy, affordable meal planning app. Plan meals, scan food, track nutrition, and save money with Gemini AI.',
   keywords: ['meal planning', 'nutrition', 'healthy cooking', 'budget meals', 'AI', 'Gemini'],
+  icons: {
+    icon: '/favicon.png',
+    apple: '/logo.png',
+  },
   openGraph: {
     title: 'Cook Healthy AI - Smart Meal Planning',
-    description: 'AI-powered healthy, affordable meal planning. Save ₹2000+ monthly!',
+    description: 'AI-powered healthy, affordable meal planning. Save $100+ monthly!',
     type: 'website',
   },
 };
