@@ -228,22 +228,6 @@ cook-healthy-ai/
 
 ---
 
-## 🎨 Screenshots
-
-<div align="center">
-
-| Home | Meal Planner | Food Scanner |
-|:----:|:------------:|:------------:|
-| ![Home](public/screenshots/home.png) | ![Planner](public/screenshots/planner.png) | ![Scanner](public/screenshots/scanner.png) |
-
-| AI Coach | Dashboard | Community |
-|:--------:|:---------:|:---------:|
-| ![Coach](public/screenshots/coach.png) | ![Dashboard](public/screenshots/dashboard.png) | ![Community](public/screenshots/community.png) |
-
-</div>
-
----
-
 ## 🔮 AI Features Deep Dive
 
 ### 1. Budget-First Meal Planning
